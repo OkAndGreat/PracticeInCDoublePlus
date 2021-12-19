@@ -3,4 +3,4 @@ project(PracticeInCDoublePlus)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(PracticeInCDoublePlus Constant.cpp Reference.cpp MusicPlayer.h MusicPlayer.cpp NameSpace.cpp)
+add_executable(PracticeInCDoublePlus Constant.cpp Reference.cpp MusicPlayer.h MusicPlayer.cpp NameSpace.cpp DestructorFunction.cpp ConstPointer.cpp)

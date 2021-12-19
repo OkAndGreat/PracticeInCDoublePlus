@@ -18,7 +18,7 @@ namespace myNameSpace {
     }
 }
 
-int main() {
+int main23() {
 
     myNameSpace::print();
 
