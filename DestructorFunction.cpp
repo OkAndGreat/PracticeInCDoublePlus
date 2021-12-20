@@ -47,7 +47,7 @@ private:
     int isAsian = 0;
 };
 
-int main78(){
+int main(){
     Student *student = new Student();
     delete student;
     student = NULL;
