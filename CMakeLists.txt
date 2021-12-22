@@ -3,4 +3,4 @@ project(PracticeInCDoublePlus)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(PracticeInCDoublePlus Extend.cpp)
+add_executable(PracticeInCDoublePlus Template.cpp)
